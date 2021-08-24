@@ -1,0 +1,35 @@
+{
+  "name": "mernlama",
+  "version": "1.0.0",
+  "description": "Mongo Express React Node Social API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtleWolfe/MERNlama.git"
+  },
+  "keywords": [
+    "Mongo",
+    "Express",
+    "React",
+    "Node",
+    "Social",
+    "API"
+  ],
+  "author": "https://TurtleWolfe.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TurtleWolfe/MERNlama/issues"
+  },
+  "homepage": "https://github.com/TurtleWolfe/MERNlama#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.13.8",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
