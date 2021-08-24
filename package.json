@@ -4,7 +4,8 @@
   "description": "Mongo Express React Node Social API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -29,7 +30,9 @@
     "express": "^4.17.1",
     "helmet": "^4.6.0",
     "mongoose": "^5.13.8",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.12"
   }
 }
