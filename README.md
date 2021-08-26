@@ -4,10 +4,11 @@
 
 ```bash
  npm init
- npm i express mongoose dotenv helmet morgan
+ npm i express mongoose dotenv helmet morgan bcrypt
  npm i -D nodemon
 ```
 
+[lamaDev ..postman/workspace](https://www.postman.com/crudgames/workspace/lamadev 'https://postman/workspace')  
 [Mongoose](https://mongoosejs.com/docs/connections 'Mongoose')  
 [Cloud MongoDB](https://cloud.mongodb.com/ 'Cloud MongoDB')
 
@@ -34,4 +35,9 @@ useUnifiedTopology: true;
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
 
+[https://github.com/TurtleWolfe/MERNlama](https://github.com/TurtleWolfe/MERNlama 'Mongo Express React & Node Social NetWork API')  
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
